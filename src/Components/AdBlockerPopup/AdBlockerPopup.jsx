@@ -1,7 +1,7 @@
 // components/AdBlockerPopup.js
 import React from 'react';
 import { Box, Button, Typography } from '@mui/material';
-
+// add
 const AdBlockerPopup = ({ onClose }) => {
   return (
     <Box
