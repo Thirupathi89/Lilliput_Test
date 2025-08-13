@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-// import "./App.css";
 import ReactGA from 'react-ga';
 import { BrowserRouter as Router, Route, Routes, useLocation } from "react-router-dom";
 import TelegramIcon from "@mui/icons-material/Telegram";
